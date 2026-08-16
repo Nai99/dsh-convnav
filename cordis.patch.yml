@@ -1,0 +1,4 @@
+# dsh-convnav bundle patch —— 左侧对话节点导航条
+- insert:
+    - id: convnav
+      name: 'dsh-convnav'
